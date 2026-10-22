@@ -1,0 +1,6 @@
+{
+  "name": "Data Entry Register",
+  "description": "Data entry register with payment tracking, duplicate certificate validation, CSV export, and instant save confirmation popup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

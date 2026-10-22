@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clipboard body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 h40 c3.3,0 6,2.7 6,6 v44 c0,3.3 -2.7,6 -6,6 H34 c-3.3,0 -6,-2.7 -6,-6 V32 c0,-3.3 2.7,-6 6,-6 z" />
+    <!-- Clip on top -->
+    <path
+        android:fillColor="#14532D"
+        android:pathData="M44,22 h20 c1.5,0 2.5,1 2.5,2.5 v4 h-25 v-4 c0,-1.5 1,-2.5 2.5,-2.5 z" />
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M49,24 h10 c0.6,0 1,0.4 1,1 v1 h-12 v-1 c0,-0.6 0.4,-1 1,-1 z" />
+    <!-- Data entry ledger lines -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M37,39 h34 v3 H37 z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M37,47 h34 v3 H37 z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M37,55 h22 v3 H37 z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M37,63 h18 v3 H37 z" />
+    <!-- Checkmark Badge Circle -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M70,68 m-13,0 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+    <!-- Checkmark icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64.5,68 l3.5,3.5 l8,-8 l1.8,1.8 l-9.8,9.8 l-5.3,-5.3 z" />
+</vector>
